@@ -7,7 +7,7 @@
 
 ## Query Files Description  
 - **file1_basic_queries.sql**: Contains 5 basic queries (e.g., simple SELECTs, COUNTs)  
-- **file2_intermediate_queries.sql**: 5 queries that involve filtering, simple joins  
+- **file2_group_by__queries.sql**: 5 queries that involve filtering, simple joins  
 - **file3_advanced_queries.sql**: 5 queries involving GROUP BY, HAVING, sub-queries  
 - **file4_very_advanced_queries.sql**: 5 challenging queries (complex aggregates, multiple joins, advanced logic)  
 
